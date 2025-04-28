@@ -28,7 +28,7 @@ Plotly (for interactive graphs)
 
 How to Run the Project
 Clone the repository:
-https://github.com/Debarjya17/llm-based-stock-prediction/edit/main/README.md
+[https://github.com/Debarjya17/llm-based-stock-prediction/edit/main/README.md](https://github.com/Debarjya17/llm-based-stock-prediction)
 
 Install the required libraries:
 pip install -r requirements.txtOpen the Jupyter notebooks and execute the code sequentially
