@@ -3,17 +3,11 @@ This project focuses on predicting the future closing prices of a stock index (e
 
 Features
 Data cleaning and preprocessing
-
 Time series visualization of actual historical data
-
 LSTM-based forecasting model
-
 Generation of future predictions (both actual and noisy versions)
-
 Error evaluation using MAE, RMSE, and MAPE
-
 Interactive comparison of actual and forecasted data
-
 Expandable framework for different stock indices
 
 
@@ -25,29 +19,19 @@ Project Structure
 
 Technologies Used
 Python 3.x
-
 Pandas
-
 NumPy
-
 Scikit-learn
-
 Keras / TensorFlow
-
 Plotly (for interactive graphs)
 
-🚀 How to Run the Project
-Clone the repository:
 
+How to Run the Project
+Clone the repository:
 https://github.com/Debarjya17/llm-based-stock-prediction/edit/main/README.md
 
-
-
-
 Install the required libraries:
-
-
-pip install -r requirements.txtOpen the Jupyter notebooks and execute the code sequentially.
+pip install -r requirements.txtOpen the Jupyter notebooks and execute the code sequentially
 
 📊 Results
 The LSTM model was able to forecast stock prices for 6 months into the future.
