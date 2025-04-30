@@ -48,6 +48,8 @@ To evaluate prediction accuracy using quantitative error metrics.
 To create a robust, expandable stock price prediction framework.
 
 🧠 Contributions
+Under the guidance of Dr. Ajanta Das.
+
 Built a complete LSTM prediction pipeline.
 
 Added random noise to simulate real-world prediction scenarios.
